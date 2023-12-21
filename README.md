@@ -1,19 +1,5 @@
-<p align="center">
-  <a href="https://github.com/Lighdx">
-    <img src="https://komarev.com/ghpvc/?username=Lighdx&color=orange">
-  </a>
-</p>
 
-<p align="center"><b>Hi, my name is Lighdx 👋</b></p>
-<p align="center">💻 Server/Networks configurator <b>Minecraft Java</b> and <b>sometimes I program in Java.</b>
 
-</br>
-
-<p align="center">
-  <a href="https://github.com/Lighdx">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lighdx&show_icons=true&theme=radical&count_private=true&locale=en" alt="Lighdx"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://discord.com/users/852731413223571506" target="_blank" rel="nofollow">
